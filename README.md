@@ -1,5 +1,7 @@
 # Python
 
+
+
 ## Github 가입
 https://docs.github.com/ko/get-started/start-your-journey/creating-an-account-on-github
 
@@ -510,4 +512,12 @@ if __name__ == "__main__":
 ### 기본 챗봇 만들기
 
 https://docs.chainlit.io/integrations/openai
+
+```sh
+pip install -r requirements.txt
+
+chainlit run app.py
+```
+
+
 
